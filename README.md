@@ -4,4 +4,4 @@
 
 ###Some diff changes on a branch
 
-This is a commit from master branch
+This is commit from conflicts branch
